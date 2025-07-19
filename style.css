@@ -67,3 +67,12 @@ body {
 .equal:hover {
   background-color: #28a745;
 }
+#backspace {
+  background-color: #f9c74f;
+  color: white;
+  font-weight: bold;
+}
+
+#backspace:hover {
+  background-color: #f4a100;
+}
